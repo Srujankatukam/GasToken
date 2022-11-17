@@ -69,7 +69,7 @@ $ python -m test.test_rlp
 <li><a href="https://www.linkedin.com/in/katukam-srujan/">Srujan Katukam</a></li>
 <li><a href="https://www.linkedin.com/in/sunell-dutt-abburi-39211a229/">Sunell Dutt Abburi</a></li>
 <li><a href="https://www.linkedin.com/in/anumandla-muralidhar-reddy-070576241/">Muralidhar Reddy</a></li>
-<li><a href="https://www.linkedin.com/in/katukam-srujan/">Srujan Katukam</a></li>
-<li><a href="https://www.linkedin.com/in/katukam-srujan/">Srujan Katukam</a></li>
+<li><a href="https://www.linkedin.com/in/srigana-pulikantham-790954221/">Srigana Pulikantham</a></li>
+<li><a href="https://www.linkedin.com/in/sindhu-sunkara-485b96212/">Sindhu Sunkara</a></li>
 
 
