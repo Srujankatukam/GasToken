@@ -66,6 +66,6 @@ $ python -m test.test_rlp
 
 ## Authors
 
-<li>(<a href="https://www.linkedin.com/in/katukam-srujan/">Srujan Katukam</a>)</li>
+<li><a href="https://www.linkedin.com/in/katukam-srujan/">Srujan Katukam</a></li>
 
-We offer absolutely no support, guarantees, advice, or other help with GasToken. If you like it, use it.
+
